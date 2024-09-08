@@ -4,6 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
+    "build": "ejs views -o public",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
